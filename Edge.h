@@ -5,7 +5,7 @@
 struct Edge
 {
 	int src,
-		dest;
+	    dest;
 };
 
 #endif
